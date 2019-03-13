@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1019519722080",
+    "firebase_url": "https://fcmnotificationapplication.firebaseio.com",
+    "project_id": "fcmnotificationapplication",
+    "storage_bucket": "fcmnotificationapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019519722080:android:4243498b77f0a3a8",
+        "android_client_info": {
+          "package_name": "com.example.fcmnotificationapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019519722080-egumt2ovd2kej34ah7ed6pqjvv7egrft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB458Cj4uzWAdZJetOwjJkZIgM0ueDWsjY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
